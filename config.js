@@ -78,8 +78,8 @@ const CONFIG = {
 		{
 			id: '5',
 			name: 'Google',
-			icon: 'glasses',
-			link: 'https://google.com',
+			icon: 'swords',
+			link: 'https://dndbeyond.com',
 		},
 		{
 			id: '6',
@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://www.deepl.com/translator',
 				},
 				{
-					name: 'D&D Beyond',
-					link: 'https://www.dndbeyond.com',
+					name: 'Twitter',
+					link: 'https://www.twitter.com',
 				},
 			],
 		},
