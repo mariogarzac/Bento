@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Mario',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -26,14 +26,14 @@ const CONFIG = {
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
+	weatherKey: 'f81e7b0b81a33d3f71f64d2782074dcb', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '37.775',
-	defaultLongitude: '-122.419',
+	defaultLatitude: '25.664909',
+	defaultLongitude: '-100.402428',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -55,37 +55,37 @@ const CONFIG = {
 			id: '1',
 			name: 'Github',
 			icon: 'github',
-			link: 'https://github.com/',
+			link: 'https://github.com/mariogarzac',
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'Drive',
+			icon: 'cloud',
+			link: 'https://drive.google.com/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'whatsapp',
+			icon: 'message-circle',
+			link: 'https://web.whatsapp.com',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Canvas',
+			icon: 'backpack',
+			link: 'https://experiencia21.tec.mx/',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
+			name: 'Google',
 			icon: 'glasses',
-			link: 'https://reddit.com',
+			link: 'https://google.com',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'YouTube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
@@ -135,46 +135,46 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'book-open',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'HTB',
+					link: 'https://app.hackthebox.com/home',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Hacker News',
+					link: 'https://thehackernews.com',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'OverTheWire',
+					link: 'https://overthewire.org/wargames/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'TCM-Security',
+					link: 'https://academy.tcm-sec.com/courses/enrolled',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'terminal-square',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'r/unixp*rn',
+					link: 'https://www.reddit.com/r/unixporn',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'monkeytype',
+					link: 'https://monkeytype.com',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Translate',
+					link: 'https://www.deepl.com/translator',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'D&D Beyond',
+					link: 'https://www.dndbeyond.com',
 				},
 			],
 		},
