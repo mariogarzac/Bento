@@ -60,7 +60,7 @@ const CONFIG = {
 		{
 			id: '2',
 			name: 'Drive',
-			icon: 'cloud',
+			icon: 'hard-drive',
 			link: 'https://drive.google.com/',
 		},
 		{
